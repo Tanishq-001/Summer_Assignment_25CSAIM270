@@ -21,3 +21,5 @@ int main() {
     printf("GCD of %d and %d is %d\n", n1, n2, gcd);
     return 0;
 }
+
+//Day 3 uploaded
