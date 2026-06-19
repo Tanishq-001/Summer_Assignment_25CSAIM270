@@ -16,3 +16,5 @@ int main() {
     printf("Sum of digits is %d\n", sumOfDigits(num));
     return 0;
 }
+
+//Day 7 uploaded
